@@ -25,7 +25,9 @@ import com.imooc.web.util.ZKCurator;
 
 @Service
 public class VideoServiceImpl implements VideoService {
-
+	
+	@Autowired
+	private 
 	@Override
 	public void addBgm(Bgm bgm) {
 		// TODO Auto-generated method stub
