@@ -18,6 +18,13 @@
 
 9、FFmpeg：2.0.1.1
 
+swagger api接口文档:
+
+![image](https://github.com/RookieWZW/short-video/raw/master/doc/swagger_1.png)
+![image](https://github.com/RookieWZW/short-video/raw/master/doc/swagger_2.png)
+
+
+
 
 短视频后台 - 技术选型：
 
