@@ -1,7 +1,8 @@
 {
  "pages": [
+  "pages/userLogin/login",
   "pages/index/index",
-   "pages/userLogin/login",
+   
   "pages/chooseBgm/chooseBgm",
  
   "pages/videoinfo/videoinfo",
@@ -16,7 +17,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "小皇短视频",
+    "navigationBarTitleText": "小短视频",
     "navigationBarTextStyle":"black"
   },
   "debug": true
