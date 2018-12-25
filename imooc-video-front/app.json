@@ -1,0 +1,24 @@
+{
+ "pages": [
+  "pages/userLogin/login",
+  "pages/index/index",
+   
+  "pages/chooseBgm/chooseBgm",
+ 
+  "pages/videoinfo/videoinfo",
+  "pages/videotest/videotest",
+  
+  "pages/report/report",
+  "pages/mine/mine",
+  "pages/userRegist/regist",
+  
+  "pages/searchVideo/searchVideo"
+],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小短视频",
+    "navigationBarTextStyle":"black"
+  },
+  "debug": true
+}
